@@ -1,0 +1,26 @@
+{
+  "schema": 1,
+  "version": "1.4.4",
+  "revision": 15,
+  "platforms": [
+    "linux",
+    "win32"
+  ],
+  "files": {
+    "adapter": {
+      "path": "updates/packages/15-1.4.4/adapter.js",
+      "size": 34182,
+      "sha256": "a2bfa537359e69e4b8aba098d2f5498c895a7cb23168e2b0ec326a5d34b7d341"
+    },
+    "inject": {
+      "path": "updates/packages/15-1.4.4/inject.js",
+      "size": 189526,
+      "sha256": "4a6a6b4ee3ef88dd8f2a738f36588d5d45bbc5607fdb715ddae96b8e038a5f30"
+    },
+    "runtime": {
+      "path": "updates/packages/15-1.4.4/runtime.js",
+      "size": 28042,
+      "sha256": "de7271189b106dfb7e8e42ad46922f83d46449360f97e3eb88c49d9b715f6fc4"
+    }
+  }
+}
