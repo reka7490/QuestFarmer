@@ -1,24 +1,24 @@
 {
   "schema": 1,
-  "version": "1.4.6",
-  "revision": 18,
+  "version": "1.4.11",
+  "revision": 28,
   "platforms": [
     "linux",
     "win32"
   ],
   "files": {
     "adapter": {
-      "path": "updates/packages/18-1.4.6/adapter.js",
-      "size": 34371,
-      "sha256": "baa3553dc55b99d7c14bc70a04faf54cc6153f3c1cfb9a45940f3f86a60ff7b3"
+      "path": "updates/packages/28-1.4.11/adapter.js",
+      "size": 34478,
+      "sha256": "d82993e925d869a1ebc43018381636b667d15c80bf3b4862abf2c89f285cb52d"
     },
     "inject": {
-      "path": "updates/packages/18-1.4.6/inject.js",
-      "size": 193478,
-      "sha256": "b53e23d32aa619d7eedb5042ad40ae599e92d3a7f18193a48dd9c5fdf635ef6a"
+      "path": "updates/packages/28-1.4.11/inject.js",
+      "size": 195274,
+      "sha256": "71acbc263ea3da19a764ca852921a80c2cb01fb469a23bd1d58aaf7b46c939f3"
     },
     "runtime": {
-      "path": "updates/packages/18-1.4.6/runtime.js",
+      "path": "updates/packages/28-1.4.11/runtime.js",
       "size": 28042,
       "sha256": "de7271189b106dfb7e8e42ad46922f83d46449360f97e3eb88c49d9b715f6fc4"
     }
